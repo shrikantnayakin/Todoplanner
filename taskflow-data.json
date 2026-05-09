@@ -146,7 +146,10 @@
     {
       "username": "c",
       "password": "c",
-      "role": "operator"
+      "role": "operator",
+      "owners": [
+        "Chetan"
+      ]
     },
     {
       "username": "t",
