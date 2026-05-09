@@ -132,7 +132,11 @@
     "Rohit",
     "Shivam",
     "Shrikant",
-    "Triloki"
+    "Triloki",
+    {
+      "name": "Chetan",
+      "email": "chetan.g@gsl.in"
+    }
   ],
   "tf_members": [
     "Rohit"
