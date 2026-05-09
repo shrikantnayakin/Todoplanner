@@ -163,7 +163,9 @@
       "username": "s",
       "password": "s",
       "role": "admin",
-      "owners": []
+      "owners": [
+        "Shivam"
+      ]
     }
   ],
   "tf_roles": [
