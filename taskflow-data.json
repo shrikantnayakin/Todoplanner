@@ -114,10 +114,7 @@
       "username": "t",
       "password": "t",
       "role": "operator",
-      "owners": [
-        "Rohit",
-        "Shrikant"
-      ]
+      "owners": []
     }
   ],
   "tf_roles": [
