@@ -90,7 +90,7 @@
       "category": "Training",
       "point": "Production Module with sub-assembly item",
       "subPoints": [],
-      "owner": "Chetan",
+      "owner": "",
       "status": "Open",
       "dueDate": "",
       "comments": "",
@@ -134,10 +134,6 @@
     "Shrikant",
     "Triloki",
     {
-      "name": "Chetan",
-      "email": "chetan.g@gsl.in"
-    },
-    {
       "name": "Shrikant",
       "email": "shrikant.n@gsl.in"
     }
@@ -155,9 +151,7 @@
       "username": "c",
       "password": "c",
       "role": "operator",
-      "owners": [
-        "Chetan"
-      ]
+      "owners": []
     },
     {
       "username": "t",
