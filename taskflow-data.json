@@ -101,8 +101,8 @@
   ],
   "tf_users": [
     {
-      "username": "s",
-      "password": "s",
+      "username": "admin",
+      "password": "admin",
       "role": "admin"
     },
     {
