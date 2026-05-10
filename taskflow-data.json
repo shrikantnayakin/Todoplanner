@@ -134,12 +134,8 @@
     "Shivam",
     "Shrikant",
     "Triloki",
-    {
-      "name": "Shrikant",
-      "email": "shrikant.n@gsl.in"
-    },
-    "x",
-    "unassign"
+    "Unassigned",
+    "x"
   ],
   "tf_members": [
     "Rohit Aggarwal"
