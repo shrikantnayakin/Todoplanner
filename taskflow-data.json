@@ -215,10 +215,10 @@
     {
       "name": "operator",
       "permissions": [
+        "add_task",
         "change_status",
         "export",
-        "pivot",
-        "backup_restore"
+        "pivot"
       ]
     }
   ],
