@@ -150,7 +150,9 @@
     "Triloki",
     "Unassign"
   ],
-  "tf_owner_emails": {},
+  "tf_owner_emails": {
+    "Chetan": "chetan.g@gsl.in"
+  },
   "tf_members": [
     "Rohit Aggarwal"
   ],
